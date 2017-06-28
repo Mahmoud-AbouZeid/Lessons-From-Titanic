@@ -10,7 +10,7 @@ Using [Titanic Dataset](https://d17h27t6h515a5.cloudfront.net/topher/2016/Septem
 Data contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic. You can view a description of this dataset on the [Kaggle website](https://www.kaggle.com/c/titanic/data), where the data was obtained.
 
 ## Usage
-The code was written with Python 2.7. running the code in python 3 will result in errors. You can open the [notebook](https://github.com/Mahmoud-AbouZeid/Lessons-from-Titanic/blob/cleaning/The%20Sinking%20of%20RMS%20Titanic.ipynb) directly on github, but it is better viewed via [nbviewer here](https://nbviewer.jupyter.org/github/Mahmoud-AbouZeid/Lessons-from-Titanic/blob/cleaning/The%20Sinking%20of%20RMS%20Titanic.ipynb). There is a toggle button to toggle on/off the code cell, toggle off for more readable version if you are not interested in the code.
+The code was written with Python 2.7. running the code in python 3 will result in errors. You can open the [notebook](https://github.com/Mahmoud-AbouZeid/Lessons-from-Titanic/blob/master/The%20Sinking%20of%20RMS%20Titanic.ipynb) directly on github, but it is better viewed via [nbviewer here](https://nbviewer.jupyter.org/github/Mahmoud-AbouZeid/Lessons-from-Titanic/blob/master/The%20Sinking%20of%20RMS%20Titanic.ipynb). There is a toggle button to toggle on/off the code cell, toggle off for more readable version if you are not interested in the code.
 
 ## License
 Feel free to use this notebook for whatever you want to do.
